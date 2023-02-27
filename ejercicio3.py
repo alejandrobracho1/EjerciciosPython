@@ -20,8 +20,6 @@ apellido = input("> ")
 print("Hola %s %s, gusto en conocerte!" %(nombre, apellido))
 
 
-
-
 # Declaracion de variables
 nombre = ""
 apellido = ""

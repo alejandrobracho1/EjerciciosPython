@@ -22,10 +22,6 @@ else:
 
 
 
-
-
-
-
 # Declaracion de variables
 primer_numero  = 0.0
 segundo_numero = 0.0
